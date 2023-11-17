@@ -1,7 +1,7 @@
 def main():
     print('My first git program')
-    print('And I hate fronted, but used Python')
-    print('I WONT STADING C++ ')
+    print('OK i dont hate fronted programing')
+    print('I WONT STADS C++ ')
 
 
 if __name__ == '__main__':
